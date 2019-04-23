@@ -2,97 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0d3d0a8-c91a-49c0-81d0-cc35093f6c86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cv_17day.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/Face_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/Face_detection_video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/deploy.prototxt.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/detect_faces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/detect_faces_video.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/iron_chic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/res10_300x300_ssd_iter_140000.caffemodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_01day/rooster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_02day/iron_chic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_02day/jp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_02day/opencv_tutorial_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_02day/opencv_tutorial_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_02day/tetris_blocks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_dl_resource_guide.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils-0.5.2.dist-info/INSTALLER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils-0.5.2.dist-info/METADATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils-0.5.2.dist-info/RECORD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils-0.5.2.dist-info/WHEEL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils-0.5.2.dist-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/contours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/convenience.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/encodings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/face_utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/face_utils/facealigner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/face_utils/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/feature/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/feature/dense.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/feature/factories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/feature/gftt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/feature/harris.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/feature/helpers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/feature/rootsift.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/io/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/io/tempfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/meta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/object_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/paths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/perspective.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/video/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/video/count_frames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/video/filevideostream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/video/fps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/video/pivideostream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/video/videostream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/imutils/video/webcamvideostream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/python36.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/range-detector" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/select.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_03/OCR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_03/images/page.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_03/images/receipt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_03/pyimagesearch/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_03/pyimagesearch/transform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_03/scan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +19,9 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/cv_17day$Face_detection_video.coverage" NAME="Face_detection_video Coverage Results" MODIFIED="1555858699166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_01day" />
     <SUITE FILE_PATH="coverage/cv_17day$opencv_tutorial_01.coverage" NAME="opencv_tutorial_01 Coverage Results" MODIFIED="1555923495499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_02day" />
+    <SUITE FILE_PATH="coverage/cv_17day$scan.coverage" NAME="scan Coverage Results" MODIFIED="1556001718958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_03" />
     <SUITE FILE_PATH="coverage/cv_17day$Face_detection.coverage" NAME="Face_detection Coverage Results" MODIFIED="1555852449158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_01day" />
+    <SUITE FILE_PATH="coverage/cv_17day$OCR.coverage" NAME="OCR Coverage Results" MODIFIED="1556009763713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_03" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1776643181">
@@ -113,59 +31,56 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="jpg" value="2" />
-          <entry key="py" value="5" />
+          <entry key="jpg" value="3" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="2" />
-          <entry key="Python" value="5" />
+          <entry key="Image" value="3" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
           <entry key="dummy" value="2" />
-          <entry key="py" value="2619" />
+          <entry key="py" value="4372" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="2622" />
+          <entry key="Python" value="4375" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cv_02day/opencv_tutorial_01.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cv_03/OCR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2403">
-              <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
-              <folding>
-                <element signature="e#32#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="473">
+              <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cv_02day/opencv_tutorial_02.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cv_03/scan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="62" column="42" lean-forward="true" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+            <state relative-caret-position="-1363">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" selection-end-column="38" />
               <folding>
-                <element signature="e#98#113#0" expanded="true" />
+                <element signature="e#82#138#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,6 +105,8 @@
         <option value="$PROJECT_DIR$/cv_01day/Face_detection.py" />
         <option value="$PROJECT_DIR$/cv_01day/Face_detection_video.py" />
         <option value="$PROJECT_DIR$/cv_02day/opencv_tutorial_01.py" />
+        <option value="$PROJECT_DIR$/cv_03/scan.py" />
+        <option value="$PROJECT_DIR$/cv_03/OCR.py" />
       </list>
     </option>
   </component>
@@ -229,6 +146,30 @@
               <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
               <item name="cv_02day" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cv_17day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
+              <item name="cv_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv_17day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
+              <item name="cv_03" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv_17day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
+              <item name="cv_03" type="462c0819:PsiDirectoryNode" />
+              <item name="pyimagesearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cv_17day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
+              <item name="cv_03" type="462c0819:PsiDirectoryNode" />
+              <item name="pyimagesearch" type="462c0819:PsiDirectoryNode" />
+              <item name="transform.py" type="8704e2dd:PyFileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -243,12 +184,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\py_project\cv_17day\cv_03" />
+      <recent name="F:\py_project\cv_17day\cv_02day" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\py_project\cv_17day\cv_03" />
       <recent name="F:\py_project\cv_17day\cv_02day" />
       <recent name="F:\py_project\cv_17day\cv_01day" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\py_project\cv_17day\cv_02day" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.opencv_tutorial_01">
+  <component name="RunManager" selected="Python.OCR">
     <configuration name="Face_detection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cv_17day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,6 +251,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="OCR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cv_17day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cv_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv_03/OCR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="opencv_tutorial_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cv_17day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,13 +295,39 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cv_17day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cv_03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv_03/scan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Face_detection" />
       <item itemvalue="Python.Face_detection_video" />
       <item itemvalue="Python.opencv_tutorial_01" />
+      <item itemvalue="Python.scan" />
+      <item itemvalue="Python.OCR" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OCR" />
+        <item itemvalue="Python.scan" />
         <item itemvalue="Python.opencv_tutorial_01" />
         <item itemvalue="Python.Face_detection_video" />
         <item itemvalue="Python.Face_detection" />
@@ -366,23 +357,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16111952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22768533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3276923" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32973805" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.1725732" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3276923" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.32973805" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3266564" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.38615385" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -416,22 +407,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_02day/opencv_tutorial_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#98#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1515602059/cv2/cv2.py">
+    <entry file="file://$PROJECT_DIR$/cv_03/pyimagesearch/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_03/pyimagesearch/transform.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="8871" column="2" lean-forward="true" selection-start-line="8871" selection-start-column="2" selection-end-line="8871" selection-end-column="2" />
+        <state relative-caret-position="-430">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_03/images/receipt.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/imutils/convenience.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_02day/opencv_tutorial_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2403">
+        <state relative-caret-position="1134">
           <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
           <folding>
             <element signature="e#32#46#0" expanded="true" />
@@ -439,13 +450,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_02day/opencv_tutorial_02.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1515602059/cv2/cv2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="62" column="42" lean-forward="true" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+        <state relative-caret-position="414">
+          <caret line="2368" column="3" selection-start-line="2368" selection-start-column="3" selection-end-line="2374" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_03/scan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1363">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" selection-end-column="38" />
           <folding>
-            <element signature="e#98#113#0" expanded="true" />
+            <element signature="e#82#138#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_03/OCR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
         </state>
       </provider>
     </entry>
