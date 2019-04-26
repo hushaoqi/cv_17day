@@ -28,7 +28,7 @@ pts = deque(maxlen=args["buffer"])
 if not args.get("video", False):
     vs = VideoStream(src=0).start()
 else:
-    vs = cv2.VideoCapture(args["video"])
+    vs = cv2.VideoCapture(args["video"])# 这个函数也有问题
 
 # 允许相机或视频文件预热
 time.sleep(2.0)
