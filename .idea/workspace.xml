@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0d3d0a8-c91a-49c0-81d0-cc35093f6c86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/OMR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/images/example_test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/images/test_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/images/test_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/images/test_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/images/test_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/images/test_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/multiple_choice_template.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv_04day_optical-mark-recognition/test_grader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_05day_object_tracker/tracking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_03day/OCR.py" beforeDir="false" afterPath="$PROJECT_DIR$/cv_03day_document-scanner/OCR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_03day/images/page.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cv_03day_document-scanner/images/page.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_03day/images/receipt.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cv_03day_document-scanner/images/receipt.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_03day/pyimagesearch/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cv_03day_document-scanner/pyimagesearch/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_03day/pyimagesearch/transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/cv_03day_document-scanner/pyimagesearch/transform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_03day/scan.py" beforeDir="false" afterPath="$PROJECT_DIR$/cv_03day_document-scanner/scan.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +16,7 @@
     <SUITE FILE_PATH="coverage/cv_17day$pytest_in_test_grader_py.coverage" NAME="pytest in test_grader.py Coverage Results" MODIFIED="1556194895290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_04day_optical-mark-recognition" />
     <SUITE FILE_PATH="coverage/cv_17day$opencv_tutorial_01.coverage" NAME="opencv_tutorial_01 Coverage Results" MODIFIED="1555923495499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_02day" />
     <SUITE FILE_PATH="coverage/cv_17day$OMR.coverage" NAME="OMR Coverage Results" MODIFIED="1556197618952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_04day_optical-mark-recognition" />
+    <SUITE FILE_PATH="coverage/cv_17day$tracking.coverage" NAME="tracking Coverage Results" MODIFIED="1556261901394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_05day_object_tracker" />
     <SUITE FILE_PATH="coverage/cv_17day$scan.coverage" NAME="scan Coverage Results" MODIFIED="1556001718958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_03" />
     <SUITE FILE_PATH="coverage/cv_17day$Face_detection.coverage" NAME="Face_detection Coverage Results" MODIFIED="1555852449158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_01day" />
     <SUITE FILE_PATH="coverage/cv_17day$OCR.coverage" NAME="OCR Coverage Results" MODIFIED="1556009763713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_03" />
@@ -38,61 +25,53 @@
     <session id="1776643181">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.28" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jpg" value="3" />
-          <entry key="py" value="21" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="3" />
-          <entry key="Python" value="21" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
           <entry key="dummy" value="2" />
-          <entry key="py" value="6055" />
-          <entry key="txt" value="26" />
+          <entry key="py" value="7688" />
+          <entry key="txt" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="28" />
-          <entry key="Python" value="6058" />
+          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Python" value="7691" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cv_04day_optical-mark-recognition/test_grader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="130" column="52" lean-forward="true" selection-start-line="100" selection-start-column="4" selection-end-line="130" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cv_04day_optical-mark-recognition/OMR.py">
+        <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker/tracking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3186">
-              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+            <state relative-caret-position="578">
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding>
-                <element signature="e#233#285#0" expanded="true" />
+                <element signature="e#93#122#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,6 +100,8 @@
         <option value="$PROJECT_DIR$/cv_03/OCR.py" />
         <option value="$PROJECT_DIR$/cv_04day_optical-mark-recognition/test_grader.py" />
         <option value="$PROJECT_DIR$/cv_04day_optical-mark-recognition/OMR.py" />
+        <option value="$PROJECT_DIR$/cv_05day_object_tracker.py" />
+        <option value="$PROJECT_DIR$/cv_05day_object_tracker/tracking.py" />
       </list>
     </option>
   </component>
@@ -193,6 +174,11 @@
               <item name="cv_04day_optical-mark-recognition" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cv_17day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
+              <item name="cv_05day_object_tracker" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.OMR">
+  <component name="RunManager" selected="Python.tracking">
     <configuration name="OCR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cv_17day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,28 +262,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opencv_tutorial_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cv_17day" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cv_02day" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv_02day/opencv_tutorial_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cv_17day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,6 +276,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv_03/scan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tracking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cv_17day" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cv_05day_object_tracker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv_05day_object_tracker/tracking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,19 +323,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.opencv_tutorial_01" />
       <item itemvalue="Python.scan" />
       <item itemvalue="Python.OCR" />
       <item itemvalue="Python.OMR" />
       <item itemvalue="Python tests.pytest in test_grader.py" />
+      <item itemvalue="Python.tracking" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tracking" />
         <item itemvalue="Python.OMR" />
         <item itemvalue="Python tests.pytest in test_grader.py" />
         <item itemvalue="Python.OCR" />
         <item itemvalue="Python.scan" />
-        <item itemvalue="Python.opencv_tutorial_01" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556011845300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="The forth day">
+      <created>1556198282971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556198282971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -389,15 +382,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1380" height="782" extended-state="1" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="1380" height="782" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23181818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32973805" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.023183925" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.34157652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22256568" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,7 +415,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The third day" />
-    <option name="LAST_COMMIT_MESSAGE" value="The third day" />
+    <MESSAGE value="The forth day" />
+    <option name="LAST_COMMIT_MESSAGE" value="The forth day" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cv_02day/iron_chic.jpg">
@@ -498,25 +491,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#82#138#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_04day_optical-mark-recognition/test_grader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="130" column="52" lean-forward="true" selection-start-line="100" selection-start-column="4" selection-end-line="130" selection-end-column="52" />
+        <state relative-caret-position="3375">
+          <caret line="130" column="52" selection-start-line="100" selection-start-column="4" selection-end-line="130" selection-end-column="52" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/cv_04day_optical-mark-recognition/OMR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3186">
-          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="961">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
           <folding>
             <element signature="e#233#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker/tracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="e#93#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
