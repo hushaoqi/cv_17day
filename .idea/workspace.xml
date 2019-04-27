@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0d3d0a8-c91a-49c0-81d0-cc35093f6c86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cv_05day_object_tracker/tracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_06_Measuring_size_of_objects/images/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_06_Measuring_size_of_objects/images/example_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv_06_Measuring_size_of_objects/object_size.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,58 +22,84 @@
     <SUITE FILE_PATH="coverage/cv_17day$scan.coverage" NAME="scan Coverage Results" MODIFIED="1556001718958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_03" />
     <SUITE FILE_PATH="coverage/cv_17day$Face_detection.coverage" NAME="Face_detection Coverage Results" MODIFIED="1555852449158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_01day" />
     <SUITE FILE_PATH="coverage/cv_17day$OCR.coverage" NAME="OCR Coverage Results" MODIFIED="1556009763713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_03" />
+    <SUITE FILE_PATH="coverage/cv_17day$object_size.coverage" NAME="object_size Coverage Results" MODIFIED="1556356290267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cv_06_Measuring_size_of_objects" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1776643181">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jpg" value="3" />
-          <entry key="py" value="23" />
+          <entry key="py" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="3" />
-          <entry key="Python" value="23" />
+          <entry key="Python" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="3" />
           <entry key="dummy" value="2" />
-          <entry key="py" value="7688" />
-          <entry key="txt" value="31" />
+          <entry key="py" value="9108" />
+          <entry key="txt" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="33" />
-          <entry key="Python" value="7691" />
+          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="Python" value="9111" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker/tracking.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            <state relative-caret-position="-216">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
               <folding>
                 <element signature="e#93#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cv_06_Measuring_size_of_objects/object_size.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding>
+                <element signature="e#28#70#0" expanded="true" />
+                <marker date="1556355941939" expanded="true" signature="217:222" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cv_04day_optical-mark-recognition/OMR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="46" />
+              <folding>
+                <element signature="e#233#285#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,6 +130,7 @@
         <option value="$PROJECT_DIR$/cv_04day_optical-mark-recognition/OMR.py" />
         <option value="$PROJECT_DIR$/cv_05day_object_tracker.py" />
         <option value="$PROJECT_DIR$/cv_05day_object_tracker/tracking.py" />
+        <option value="$PROJECT_DIR$/cv_06_Measuring_size_of_objects/object_size.py" />
       </list>
     </option>
   </component>
@@ -179,6 +208,11 @@
               <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
               <item name="cv_05day_object_tracker" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cv_17day" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cv_17day" type="462c0819:PsiDirectoryNode" />
+              <item name="cv_06_Measuring_size_of_objects" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -194,15 +228,17 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\py_project\cv_17day\cv_06_Measuring_size_of_objects\images" />
+      <recent name="F:\py_project\cv_17day\cv_03" />
+      <recent name="F:\py_project\cv_17day\cv_02day" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\py_project\cv_17day\cv_06_Measuring_size_of_objects" />
       <recent name="F:\py_project\cv_17day\cv_04day_optical-mark-recognition" />
       <recent name="F:\py_project\cv_17day\cv_03" />
       <recent name="F:\py_project\cv_17day\cv_02day" />
       <recent name="F:\py_project\cv_17day\cv_01day" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\py_project\cv_17day\cv_03" />
-      <recent name="F:\py_project\cv_17day\cv_02day" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tracking">
+  <component name="RunManager" selected="Python.object_size">
     <configuration name="OCR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cv_17day" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="object_size" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="cv_17day" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,12 +306,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cv_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cv_06_Measuring_size_of_objects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv_03/scan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv_06_Measuring_size_of_objects/object_size.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,19 +359,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.scan" />
       <item itemvalue="Python.OCR" />
       <item itemvalue="Python.OMR" />
       <item itemvalue="Python tests.pytest in test_grader.py" />
       <item itemvalue="Python.tracking" />
+      <item itemvalue="Python.object_size" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.object_size" />
         <item itemvalue="Python.tracking" />
         <item itemvalue="Python.OMR" />
         <item itemvalue="Python tests.pytest in test_grader.py" />
         <item itemvalue="Python.OCR" />
-        <item itemvalue="Python.scan" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +400,21 @@
       <option name="project" value="LOCAL" />
       <updated>1556198282971</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The fifth day&#10;but c = max(cnts, key=cv2.contourArea())&#10;TypeError: Required argument 'contour' (pos 1) not found">
+      <created>1556262673851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556262673851</updated>
+    </task>
+    <task id="LOCAL-00004" summary="The fifth day&#10;but c = max(cnts, key=cv2.contourArea())&#10;TypeError: Required argument 'contour' (pos 1) not found&#10;vs = cv2.VideoCapture(args[&quot;video&quot;])">
+      <created>1556262745095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556262745095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -384,12 +434,12 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1380" height="782" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23939393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32973805" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.34157652" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6121212" visible="true" weight="0.34157652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22256568" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -397,7 +447,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3266564" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.38787878" side_tool="true" visible="true" weight="0.34157652" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.38615385" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3276923" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -416,7 +466,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The third day" />
     <MESSAGE value="The forth day" />
-    <option name="LAST_COMMIT_MESSAGE" value="The forth day" />
+    <MESSAGE value="The fifth day&#10;but c = max(cnts, key=cv2.contourArea())&#10;TypeError: Required argument 'contour' (pos 1) not found" />
+    <MESSAGE value="The fifth day&#10;but c = max(cnts, key=cv2.contourArea())&#10;TypeError: Required argument 'contour' (pos 1) not found&#10;vs = cv2.VideoCapture(args[&quot;video&quot;])" />
+    <option name="LAST_COMMIT_MESSAGE" value="The fifth day&#10;but c = max(cnts, key=cv2.contourArea())&#10;TypeError: Required argument 'contour' (pos 1) not found&#10;vs = cv2.VideoCapture(args[&quot;video&quot;])" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cv_02day/iron_chic.jpg">
@@ -501,25 +553,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker.py" />
+    <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker/tracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="e#93#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cv_04day_optical-mark-recognition/OMR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="961">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="157">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="46" />
           <folding>
             <element signature="e#233#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cv_05day_object_tracker/tracking.py">
+    <entry file="file://$PROJECT_DIR$/cv_06_Measuring_size_of_objects/object_size.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="-216">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding>
-            <element signature="e#93#122#0" expanded="true" />
+            <element signature="e#28#70#0" expanded="true" />
+            <marker date="1556355941939" expanded="true" signature="217:222" ph="..." />
           </folding>
         </state>
       </provider>
